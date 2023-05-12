@@ -26,3 +26,5 @@ This code is generating 100 random data points along 3 dimensions and visualizin
 6) Displaying the plot using plt.show().
 
 Overall, this code is a simple example of how to use Matplotlib to generate a scatter plot from randomly generated data.
+
+![Diagram](Diagram.png)
